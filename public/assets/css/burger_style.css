@@ -1,0 +1,42 @@
+h1 {
+
+font-family: 'Boogaloo', cursive;
+color: red   
+}
+
+h2 {
+    font-family: 'Boogaloo', cursive;
+    color: red
+
+}
+
+body {
+
+    background-color: yellow;
+}
+
+.eaten {
+    background-color: darkorange;
+    font-family: 'Archivo Black', sans-serif;
+
+}
+
+.uneaten {
+
+    background-color: greenyellow;
+    font-family: 'Archivo Black', sans-serif;
+
+}
+
+#addburger {
+
+    font-family: 'Archivo Black', sans-serif;
+
+}
+
+#burgerType {
+
+    font-family: 'Archivo Black', sans-serif;
+
+}
+
